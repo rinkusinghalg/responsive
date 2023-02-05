@@ -1,0 +1,113 @@
+#cars{
+padding-bottom: 100px;
+}
+a{
+    color: white;
+}
+h2{
+    text-align: center; 
+    
+    padding-top: 18px;
+   
+    justify-content: center;
+}
+#gn{
+    
+   
+    
+    width: 50px;
+    text-decoration: underline;
+}
+.fng{
+
+    font-size: 15px;
+    text-align: center;
+}
+
+#cv{
+    height: 300px;
+}
+.rbs{
+    color: white;
+    text-align: center;
+}
+.text-white{
+    text-align: center;
+    padding-top: 40px;
+   
+}
+.box{
+   background-color: rgb(243, 235, 235);
+  margin: 10px;
+  padding: 10px;
+  color: blue;
+  font-weight: bold;
+}
+.bb{
+    content: "";
+    width: 20px;
+    height: 20px;
+}
+.divider{
+    width: 80px;
+    height: 3px;
+    background-color: rgb(1, 16, 228);
+    display: inline-block;
+    align-items: right;
+    line-height: 40px;
+    border-radius: 50px;
+    margin-top: 10px;
+    
+
+}
+#ll{
+    margin: 1px;
+    font-size: 60px;
+    
+}
+#jj{
+    font-size: 40px;
+}
+.kk{
+    font-size: 18px;
+}
+.ss{
+   
+    
+    font-size: 16px;
+    font-weight: bold;
+   
+    width: auto;
+    
+}
+.zx{
+    background-image: url(comp5.png);
+    background-size: 250px 200px;
+    
+}
+.m{
+    background-image: url(comp4.jpg);
+    background-size: 250px 200px;
+}
+.n{
+    background-image: url(computr.jpg);
+    background-size: 250px 200px;
+}
+.j{
+    background-image: url(comp6.png);
+    background-size: 250px 200px;
+}
+.k{
+    background-image: url(com.jpg);
+    background-size: 250px 200px;
+}
+
+.l{
+    background-image: url(comp3.jpg);
+    background-size: 250px 200px;
+}
+  
+   
+   
+   
+
